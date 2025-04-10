@@ -1,4 +1,4 @@
-# 3D_Visual_ADS-B ✈️🛰️
+# 3D_Visual_ADS-B ✈️
 
 This project enables real-time 3D visualization of ADS-B flight data using the X-Plane flight simulator. By parsing aircraft data from a CSV file, the system transmits the traffic to X-Plane, allowing you to view and analyze real-world flight movements in a 3D simulated environment.
 
@@ -72,7 +72,7 @@ This document contains design concepts, flowcharts, and additional notes on the 
 
 ## 🧠 Author
 
-Created by [rakinghiyat](https://github.com/rakinghiyat), an enthusiast in aircraft systems, telemetry, and simulation-based innovation.
+Created by [rakinghiyat](https://rakinghiyat.github.io/portofolio/), an enthusiast in aircraft systems, telemetry, and simulation-based innovation.
 
 ---
 
